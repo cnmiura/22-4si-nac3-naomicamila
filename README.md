@@ -18,7 +18,7 @@ Este projeto poderá ser feito `individualmente` ou por grupos de `até 2 alunos
 
 | Nome dos Integrantes     | RM             | Turma   |
 | :----------------------- | :------------- | :-----: |
-| Camila G Marraccini		   | RM 83209       | 4SIS    |
+| Camila G. Marraccini		   | RM 83209       | 4SIS    |
 | Carolina Naomi           | RM 83166       | 4SIS    |
 
 
